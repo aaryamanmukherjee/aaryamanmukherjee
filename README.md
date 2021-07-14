@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @aaryamanmukherjee
+- 👀 I’m interested in coding and law ...
+- 🌱 I’m currently studying in school ...
+- 📫 How to reach me aaryamanmukherjee@outlook.com / instagram: damnyouaaryaman...
+
+<!---
+aaryamanmukherjee/aaryamanmukherjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
